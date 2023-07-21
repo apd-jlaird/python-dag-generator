@@ -1,0 +1,15 @@
+graph {
+	graph [rankdir=LR]
+	b
+	c
+	a
+	e
+	d
+	a -- b
+	a -- c
+	b -- d
+	c -- d
+	a -- e
+	c -- e
+	d -- e
+}
